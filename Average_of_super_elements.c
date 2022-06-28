@@ -37,7 +37,6 @@ int main()
         res = ((double)sum)/items;
         printf("%.2f",res);
     }
-    printf("
-");
+    printf("");
     return 0;
 }
